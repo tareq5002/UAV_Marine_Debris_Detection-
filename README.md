@@ -1,4 +1,4 @@
-# UAV_Marine_Debris_Detection-
+# UAV_Marine_Debris_Detection_Project-
 Vision-based UAV system for marine debris detection using YOLO and deep learning.
 
 Introduction:
